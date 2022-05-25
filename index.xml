@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on Dissertation</title>
+    <link>https://johndmart.in/dissertation/</link>
+    <description>Recent content in Welcome on Dissertation</description>
+    <image>
+      <url>https://johndmart.in/dissertation/papermod-cover.png</url>
+      <link>https://johndmart.in/dissertation/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 25 May 2022 00:30:45 -0400</lastBuildDate><atom:link href="https://johndmart.in/dissertation/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
